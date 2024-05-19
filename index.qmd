@@ -1,5 +1,6 @@
 ---
 title: "MaVRICS"
+subtitle: "Manchester Vascular Risk, Inflammation and Cognition Study"
 ---
 
 This is a Quarto website.
